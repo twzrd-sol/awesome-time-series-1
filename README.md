@@ -390,6 +390,8 @@ Analysis and Embedding]() `AAAI 2022`
 - [Flow Forecast: A deep learning framework for time series forecasting, classification and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain behavioral time series scoring for AI agent wallets on Solana. Anomaly detection for agent transaction patterns (wash trading, recency, payer diversity). MCP endpoint at `https://intel.twzrd.xyz/mcp`.
+
 ## Datasets
 - [TSDB: A Python Toolbox to Ease Loading Open-Source Time-Series Datasets (supporting 119 datasets)](https://github.com/WenjieDu/TSDB)
 
